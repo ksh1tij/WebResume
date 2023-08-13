@@ -19,7 +19,7 @@ WebResume has the following dependencies:
 
 ## Getting Started
 
-Just go to the following site....[WebResume](https://ksh1tij.github.io/WebResume/)
+Just go to the following site.... [WebResume](https://ksh1tij.github.io/WebResume/)
 
 ## License
 
