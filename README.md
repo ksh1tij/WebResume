@@ -27,4 +27,4 @@ WebResume is released under the MIT License. Please see the [LICENSE](https://gi
 
 ## Contact
 
-Please feel free to reach out to us at [kshitijkumar021991@gmail.com](mailto:kshitijkumar021991@gmail.com).
+Please feel free to reach out to me at [kshitijkumar021991@gmail.com](mailto:kshitijkumar021991@gmail.com).
